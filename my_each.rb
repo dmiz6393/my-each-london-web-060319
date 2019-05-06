@@ -1,7 +1,8 @@
 collection = [1, 2, 3, 4] 
 
 def my_each(collection)
-  i=0 i<collection.length 
+  i=0 
+  while i<collection.length 
   yield(collection[i])
   i+=1 
   end  
