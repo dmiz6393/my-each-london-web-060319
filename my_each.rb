@@ -8,4 +8,3 @@ def my_each(collection)
   end  
   puts i 
 end
-end 
